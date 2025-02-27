@@ -63,8 +63,8 @@ dependencies = [
 
 [[package]]
 name = "aws-nitro-enclaves-cose"
-version = "0.5.2"
-source = "git+https://github.com/andrcmdr/aws-nitro-enclaves-cose.git?branch=main#9e29d3e1c67b3d6c1fdc18096a43bbf705a9f101"
+version = "0.5.3"
+source = "git+https://github.com/andrcmdr/aws-nitro-enclaves-cose.git?branch=main#46c01cf049b70adb0fd40d623995f9285117b8a7"
 dependencies = [
  "aws-sdk-kms",
  "openssl",
